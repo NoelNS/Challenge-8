@@ -16,8 +16,8 @@ To install this project, download the code from Github.
 Usage
 To run this program, run the index.js file after installing all dependencies and answer the question in order to build and interact with Vehicle objects. 
 
-Intructional Video: https://youtu.be/7OLJ8oTtAeY
-Contributing
+Vehicle Builder Challnege 8 Video:
+
 
 Tests
 N/A
