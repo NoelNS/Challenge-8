@@ -17,7 +17,7 @@ Usage
 To run this program, run the index.js file after installing all dependencies and answer the question in order to build and interact with Vehicle objects. 
 
 Vehicle Builder Challnege 8 Video:
-
+https://app.screencastify.com/v2/watch/b1MziGvOjBZvQf2qS0Hs
 
 Tests
 N/A
